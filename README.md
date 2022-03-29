@@ -17,10 +17,8 @@ docker-compose down -v
 ```
 
 # Open wireshark web interface
-http://<yourhostname>:3000
+http://192.168.1.204:3000
 
 # If you want to allow to share your session, use
    
-http://<yourhostname>:3000/?sharing=true
-
-  
+http://192.168.1.204:3000/?sharing=true
